@@ -1,0 +1,15 @@
+Wether Conditions,Win in 3 Match,Humidity,win Toss,Win Match
+Rain,3,High,FALSE,No
+Rain,3,High,TRUE,No
+Overcast,3,High,FALSE,Yes
+Sunny,2,High,FALSE,Yes
+Sunny,1,Normal,FALSE,Yes
+Sunny,1,Normal,TRUE,No
+Overcast,1,Normal,TRUE,Yes
+Rain,2,High,FALSE,No
+Rain,1,Normal,FALSE,Yes
+Sunny,2,Normal,FALSE,Yes
+Rain,2,Normal,TRUE,Yes
+Overcast,2,High,TRUE,Yes
+Overcast,3,Normal,FALSE,Yes
+Sunny,2,High,TRUE,No
